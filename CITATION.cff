@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Open Research Spore (personal-preference variant)"
+version: "2.2.0+personal.1"
+date-released: "2026-09-27"
+type: software
+authors:
+  - name: "New Cheney"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/newcheney4-cpu/open-research-spore-personal"
+url: "https://github.com/newcheney4-cpu/open-research-spore-personal"
+abstract: >-
+  The personal-preference variant of Open Research Spore: the same editable research
+  workflow, with the author's current collaboration preferences restored as a worked
+  starting point. 中性版的工作流，附带作者当前协作偏好作为可编辑起点。
+keywords:
+  - "research workflow"
+  - "AI agents"
+  - "reproducibility"
+  - "provenance"
+  - "preferences"

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "profile": "student",
+  "lineage": [],
+  "units": [
+    {"id": "start", "path": "START.md", "kind": "method", "use": "current"},
+    {"id": "readme", "path": "README.md", "kind": "resource"},
+    {"id": "preferences", "path": "PREFERENCES.md", "kind": "preference", "use": "current"},
+    {"id": "student-skill", "path": "skills/open-student/SKILL.md", "kind": "method", "use": "callable"},
+    {"id": "lineage", "path": "history/LINEAGE.md", "kind": "resource", "use": "archive"},
+    {"id": "changes", "path": "history/CHANGES.md", "kind": "resource", "use": "archive"},
+    {"id": "exporter", "path": "tools/export_student_spore.py", "kind": "resource", "use": "callable", "requires": ["runtime-core"]},
+    {"id": "runtime-core", "path": "tools/_spore_core.py", "kind": "resource", "use": "callable", "requires": ["package-templates", "blank-state"]},
+    {"id": "check-tool", "path": "tools/check.py", "kind": "resource", "use": "callable"},
+    {"id": "package-templates", "path": "templates/package", "kind": "resource"},
+    {"id": "blank-state", "path": "templates/blank/student", "kind": "resource"}
+  ]
+}

@@ -1,0 +1,3 @@
+# 禁止 Git 行尾转换，保证克隆后字节与发布快照一致（否则 Windows 上克隆会破坏哈希校验）。
+# Disable EOL conversion so a clone keeps the exact release bytes.
+* -text

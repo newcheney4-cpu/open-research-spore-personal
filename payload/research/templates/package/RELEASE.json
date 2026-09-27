@@ -1,0 +1,7 @@
+{
+  "name": "open-research-spore",
+  "formatVersion": 2,
+  "version": "2.2.0+personal.1",
+  "releasedAt": "2026-09-27",
+  "note": "The only version-metadata source kept with an individual. install.py, the exporter and the build entries read this file or the MANIFEST.json generated from it; nothing else stores a version string."
+}

@@ -1,0 +1,5 @@
+{
+  "role": "student-seed-template",
+  "note": "This directory is the mentor's starting template for future students, not a runnable individual. It has no runtime tools, no install manifest and no current state. Assemble a student with research/tools/first_student.py, or install an exported student package with its install.py; check.py and the export entry refuse to treat this template as an individual.",
+  "assembledBy": "../tools/first_student.py"
+}

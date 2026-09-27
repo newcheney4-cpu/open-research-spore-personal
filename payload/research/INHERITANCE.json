@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "profile": "mentor",
+  "lineage": [
+    {
+      "role": "source-candidate",
+      "version": "2.1.0-beta.1",
+      "note": "Reused as untrusted implementation material for the formal 2.1.0 candidate; its checks are not formal acceptance evidence."
+    }
+  ],
+  "units": [
+    {"id": "protocol", "path": "PROTOCOL.md", "kind": "method", "use": "current"},
+    {"id": "preferences", "path": "PREFERENCES.md", "kind": "preference", "use": "current"},
+    {"id": "wakeup", "path": "WAKEUP.md", "kind": "method", "use": "current"},
+    {"id": "readme", "path": "README.md", "kind": "resource"},
+    {"id": "capabilities", "path": "CAPABILITIES.md", "kind": "resource"},
+    {"id": "manual-l0", "path": "MANUAL-L0.md", "kind": "resource"},
+    {"id": "mentor-skill", "path": "skills/open-mentor/SKILL.md", "kind": "method", "use": "callable", "requires": ["mentor-module", "handoff-module"]},
+    {"id": "adjudicate", "path": "skills/adjudicate/SKILL.md", "kind": "method", "use": "callable", "requires": ["review-module", "adjudication-template"]},
+    {"id": "mentor-module", "path": "modules/mentor.md", "kind": "resource"},
+    {"id": "handoff-module", "path": "modules/handoff.md", "kind": "resource"},
+    {"id": "review-module", "path": "modules/review.md", "kind": "resource"},
+    {"id": "task-template", "path": "templates/task.md", "kind": "resource"},
+    {"id": "review-template", "path": "templates/review-request.md", "kind": "resource"},
+    {"id": "record-template", "path": "templates/record.md", "kind": "resource"},
+    {"id": "adjudication-template", "path": "templates/adjudication.md", "kind": "resource"},
+    {"id": "student-seed", "path": "student-seed", "kind": "resource", "requires": ["blank-student"]},
+    {"id": "archive-area", "path": "archive", "kind": "resource", "use": "archive"},
+    {"id": "history-origin", "path": "history/ORIGIN.md", "kind": "resource", "use": "archive"},
+    {"id": "history-changes", "path": "history/CHANGES.md", "kind": "resource", "use": "archive"},
+    {"id": "history-adoptions", "path": "history/ADOPTIONS.md", "kind": "resource", "use": "archive", "inherit": false},
+    {"id": "history-verification", "path": "history/VERIFICATION.md", "kind": "resource", "use": "archive", "inherit": false},
+    {"id": "runtime", "path": "tools", "kind": "resource", "use": "callable", "requires": ["package-templates", "blank-mentor"]},
+    {"id": "package-templates", "path": "templates/package", "kind": "resource"},
+    {"id": "blank-mentor", "path": "templates/blank/mentor", "kind": "resource"},
+    {"id": "blank-student", "path": "templates/blank/student", "kind": "resource"}
+  ]
+}

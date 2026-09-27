@@ -1,0 +1,509 @@
+{
+  "buildId": "734150cc41da5beb3acea413117f8279dd9c8282fdc2c223d1716131fb2f208f",
+  "builtAtUtc": "2026-09-27T12:56:06+00:00",
+  "files": [
+    {
+      "bytes": 200,
+      "editable": true,
+      "path": ".gitattributes",
+      "sha256": "156be7556e543c3785e537f9ca1babd879aa2f09448d323f859ace57ff1191ff"
+    },
+    {
+      "bytes": 555,
+      "editable": true,
+      "path": "adapters/claude.block.md",
+      "sha256": "a026729db847ec89e972ff2a3e2254f93068cb83b745fe52186fac9241717114"
+    },
+    {
+      "bytes": 508,
+      "editable": true,
+      "path": "adapters/claude.block.student.md",
+      "sha256": "47b28572e510842ee82eb353ee342493b4336163fb4d65d5811e7e131d792523"
+    },
+    {
+      "bytes": 555,
+      "editable": true,
+      "path": "adapters/codex.block.md",
+      "sha256": "a026729db847ec89e972ff2a3e2254f93068cb83b745fe52186fac9241717114"
+    },
+    {
+      "bytes": 508,
+      "editable": true,
+      "path": "adapters/codex.block.student.md",
+      "sha256": "47b28572e510842ee82eb353ee342493b4336163fb4d65d5811e7e131d792523"
+    },
+    {
+      "bytes": 2278,
+      "editable": true,
+      "path": "build_archive.py",
+      "sha256": "23de30201706051e2562687122ed5b6eec1aa0923313e49634c37bd941b6b05d"
+    },
+    {
+      "bytes": 2509,
+      "editable": true,
+      "path": "build_manifest.py",
+      "sha256": "e1e9c4a7df0d2c75fbca2d94e8d4a1f2e9bc081da34a285c063082f578bc4e15"
+    },
+    {
+      "bytes": 1516,
+      "editable": true,
+      "path": "build_spore.py",
+      "sha256": "0a7a3fbe0c4cfebb2f837eaf1e929b4b4b1be9890a480541dd1b7db27317f209"
+    },
+    {
+      "bytes": 2669,
+      "editable": true,
+      "path": "CERTIFICATE.md",
+      "sha256": "f3ab50edf01feac2d3df305e02bb7ff302471608a55b21b5243cee2d7c2b40d6"
+    },
+    {
+      "bytes": 3966,
+      "editable": true,
+      "path": "CHANGELOG.md",
+      "sha256": "3f2bbbf1757e0ee6a8539df6b5d40a9bc4bdb7c5f407b3a212f95715c6fd4521"
+    },
+    {
+      "bytes": 805,
+      "editable": true,
+      "path": "CITATION.cff",
+      "sha256": "6196502578e993355b6ee1ac62a34d96b48d2323681ba438ccfc966af13f909f"
+    },
+    {
+      "bytes": 2991,
+      "editable": true,
+      "path": "install.py",
+      "sha256": "b98c0868748a1643e4b9bf020d0fc01f968432cfdf185ce8077df878e5213338"
+    },
+    {
+      "bytes": 21541,
+      "editable": true,
+      "path": "LICENSE",
+      "sha256": "6fd2ab6af53c01aab33c467ea8e6f58d748a2c408d57bb54eb56450771109ad5"
+    },
+    {
+      "bytes": 456,
+      "editable": true,
+      "path": "payload/research/archive/README.md",
+      "sha256": "40ffb303d30443a84be283ba77dab3c35127515307fa855cf4486a94ac811fb1"
+    },
+    {
+      "bytes": 2359,
+      "editable": true,
+      "path": "payload/research/CAPABILITIES.md",
+      "sha256": "9df90ed0d7fd0eb63734ee2fcef2b147a0e740c64dfacdca308e1caaf1d8b701"
+    },
+    {
+      "bytes": 128,
+      "editable": true,
+      "path": "payload/research/CLAIMS.md",
+      "sha256": "42651641e64ca340d7d843a3cda6fca047bda6a7873180d6b480f781be959413"
+    },
+    {
+      "bytes": 140,
+      "editable": true,
+      "path": "payload/research/CORRECTIONS.md",
+      "sha256": "a361fc71bb192f58633d55d0b5eb5c3ca9b6f75666030c749a86f7d882b8d9d6"
+    },
+    {
+      "bytes": 116,
+      "editable": true,
+      "path": "payload/research/DELIVERABLES.md",
+      "sha256": "1a21d3812d1006ff551799464caf973dd94f2adc8793229408170dd20bea368e"
+    },
+    {
+      "bytes": 277,
+      "editable": true,
+      "path": "payload/research/history/ADOPTIONS.md",
+      "sha256": "6686d98fa479783723e6c431e6bf43b54f833b624688612e2aee8df5bf8219a6"
+    },
+    {
+      "bytes": 318,
+      "editable": true,
+      "path": "payload/research/history/CHANGES.md",
+      "sha256": "79558cb205aa70757c95fddeff855cc1bed4fd72edc5a1bb2dd35b6ee321b33a"
+    },
+    {
+      "bytes": 2418,
+      "editable": true,
+      "path": "payload/research/history/ORIGIN.md",
+      "sha256": "84d211ae7a1610002f02eb956bd7059292f201df9694b2eef429a6ee2b57e2f0"
+    },
+    {
+      "bytes": 257,
+      "editable": true,
+      "path": "payload/research/history/VERIFICATION.md",
+      "sha256": "b808d8ef44a2ae3fe43ae27302ea653b15780e0a33bc468ee4a2394ff0e61c87"
+    },
+    {
+      "bytes": 2665,
+      "editable": true,
+      "path": "payload/research/INHERITANCE.json",
+      "sha256": "6cd7583aaaaa45651784abdd9637866a2c92693d7000aaaae566cbb03a50c8fa"
+    },
+    {
+      "bytes": 2079,
+      "editable": true,
+      "path": "payload/research/MANUAL-L0.md",
+      "sha256": "e8c06c8108ac72390ca337ed04862b0fa3fb63310cc6dc9473d6966a10ace105"
+    },
+    {
+      "bytes": 2274,
+      "editable": true,
+      "path": "payload/research/modules/handoff.md",
+      "sha256": "0df3ebfc293835b7c9f817bc3e2622d9cde77f39bf02acd28c5f7c926f55cfdc"
+    },
+    {
+      "bytes": 1365,
+      "editable": true,
+      "path": "payload/research/modules/mentor.md",
+      "sha256": "1bf3467f8ab17d47b9b2d68af12f8c8d6c347f566891e50db4b78b5cffbec543"
+    },
+    {
+      "bytes": 1165,
+      "editable": true,
+      "path": "payload/research/modules/review.md",
+      "sha256": "ee5f068285bb6e035cc6bbe5091e7c2f1ff2da3f1df86cf6dcc8b33b883fb319"
+    },
+    {
+      "bytes": 128,
+      "editable": true,
+      "path": "payload/research/OPEN.md",
+      "sha256": "b97f54761b17b9788f131e28f2ee650b51fdc4a17e81758a8712083cdbc40f69"
+    },
+    {
+      "bytes": 1097,
+      "editable": true,
+      "path": "payload/research/PREFERENCES.md",
+      "sha256": "439db3e466936c14bcf32cc6b626452079ebb35785a1edc8fb040a68e612f43b"
+    },
+    {
+      "bytes": 5054,
+      "editable": true,
+      "path": "payload/research/PROTOCOL.md",
+      "sha256": "d8f50d0bbc5589016be8dea37b19715449d5575651747edf776c0980468173eb"
+    },
+    {
+      "bytes": 3436,
+      "editable": true,
+      "path": "payload/research/README.md",
+      "sha256": "ddc7ffed954dbf4974f3c24d2edb57ab26820a6b6b45cc95a289e2372d1bfd94"
+    },
+    {
+      "bytes": 978,
+      "editable": true,
+      "path": "payload/research/skills/adjudicate/SKILL.md",
+      "sha256": "ba68ce0cf3a453bbbefddcc24d96d641cb2427751d4dd57572f73f3ee84a0b89"
+    },
+    {
+      "bytes": 2202,
+      "editable": true,
+      "path": "payload/research/skills/open-mentor/SKILL.md",
+      "sha256": "27a1d8d51dc4e0113094d7662a4d58cea8f1b9397df2823f5bab27fe01b7ed10"
+    },
+    {
+      "bytes": 438,
+      "editable": true,
+      "path": "payload/research/STATE.md",
+      "sha256": "865dafccb8e0f459ee0d72665c17c0c7c9ae50a9b570291a783cf6411933d20a"
+    },
+    {
+      "bytes": 242,
+      "editable": true,
+      "path": "payload/research/student-seed/history/CHANGES.md",
+      "sha256": "73ca3762b4ba4e5f50ba46f55a0e89c55b9f1d456613c1b9905f1991979167fd"
+    },
+    {
+      "bytes": 346,
+      "editable": true,
+      "path": "payload/research/student-seed/history/LINEAGE.md",
+      "sha256": "7c9499e630f88bffeab99b7936fea4c82d5742e263d05141de306f87d4c1b657"
+    },
+    {
+      "bytes": 1142,
+      "editable": true,
+      "path": "payload/research/student-seed/INHERITANCE.json",
+      "sha256": "fb6f0f90fb3e29c8bcc8d4cda0cae25fabcf0a07edcd165ac7cbe79508262913"
+    },
+    {
+      "bytes": 519,
+      "editable": true,
+      "path": "payload/research/student-seed/PREFERENCES.md",
+      "sha256": "96c642357ac1a2ba369b73d9bf8d7b8206be5cee0f11c402a9f1ebe96a2a4d15"
+    },
+    {
+      "bytes": 1006,
+      "editable": true,
+      "path": "payload/research/student-seed/README.md",
+      "sha256": "1062e2cbfb7dff1f44f0c3a9aae1736823d7ef58299473d9c359a0abba51b785"
+    },
+    {
+      "bytes": 456,
+      "editable": true,
+      "path": "payload/research/student-seed/SEED.json",
+      "sha256": "e7ce5b84d905d663f039ac36303c81e2b7618fb2f8bca0a00268b36ea5d10824"
+    },
+    {
+      "bytes": 1614,
+      "editable": true,
+      "path": "payload/research/student-seed/skills/open-student/SKILL.md",
+      "sha256": "b7159383706ee01b99ea29d7f283b0599d79176ff03e5b3edc9ca5f57d720fc1"
+    },
+    {
+      "bytes": 1953,
+      "editable": true,
+      "path": "payload/research/student-seed/START.md",
+      "sha256": "3322e6e55117333b256285b7e6638cb4e4ad4519b4f79a09269e9af46a0778a7"
+    },
+    {
+      "bytes": 2309,
+      "editable": true,
+      "path": "payload/research/student-seed/tools/export_student_spore.py",
+      "sha256": "54f92db6284a9b5c1f202ea8046398e2b9dae73adc74cb3dc5aee867af5bdc3a"
+    },
+    {
+      "bytes": 274,
+      "editable": true,
+      "path": "payload/research/templates/adjudication.md",
+      "sha256": "c8fe980971babb733f1f51e7c411ca22203e34c7d9b9371a7848a7195b12b366"
+    },
+    {
+      "bytes": 214,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/shell/PREFERENCES.md",
+      "sha256": "dd9b9dbc20d4d809ab54db25fcc5ae03b8a1ec40735843f7b3e514db00a8702e"
+    },
+    {
+      "bytes": 280,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/shell/PROTOCOL.md",
+      "sha256": "227945bf7481fa423feb1dc47c08b4ecf0f7d3699117f4d6fd3e05d72e7aa751"
+    },
+    {
+      "bytes": 128,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/state/CLAIMS.md",
+      "sha256": "42651641e64ca340d7d843a3cda6fca047bda6a7873180d6b480f781be959413"
+    },
+    {
+      "bytes": 140,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/state/CORRECTIONS.md",
+      "sha256": "a361fc71bb192f58633d55d0b5eb5c3ca9b6f75666030c749a86f7d882b8d9d6"
+    },
+    {
+      "bytes": 116,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/state/DELIVERABLES.md",
+      "sha256": "1a21d3812d1006ff551799464caf973dd94f2adc8793229408170dd20bea368e"
+    },
+    {
+      "bytes": 155,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/state/history/ADOPTIONS.md",
+      "sha256": "615005fa349d074d017aaafe96c26b2cd1af6a37cf1c85e41f911312f42680e4"
+    },
+    {
+      "bytes": 128,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/state/OPEN.md",
+      "sha256": "b97f54761b17b9788f131e28f2ee650b51fdc4a17e81758a8712083cdbc40f69"
+    },
+    {
+      "bytes": 438,
+      "editable": true,
+      "path": "payload/research/templates/blank/mentor/state/STATE.md",
+      "sha256": "865dafccb8e0f459ee0d72665c17c0c7c9ae50a9b570291a783cf6411933d20a"
+    },
+    {
+      "bytes": 200,
+      "editable": true,
+      "path": "payload/research/templates/blank/student/shell/PREFERENCES.md",
+      "sha256": "447426810d1aa9cb7b19c273ef41e8216209978be91fc4b1233120d0768128ee"
+    },
+    {
+      "bytes": 216,
+      "editable": true,
+      "path": "payload/research/templates/blank/student/shell/README.md",
+      "sha256": "5397972c147d36a3d8b8afdc4228ac358a5aea7396a3ee6d5e73b2fd04a3cf3a"
+    },
+    {
+      "bytes": 540,
+      "editable": true,
+      "path": "payload/research/templates/blank/student/shell/skills/open-student/SKILL.md",
+      "sha256": "c1c84186d3de88ae359edf7d2baed83cd4a3a41d35a409aeaf93a167c1bf2b61"
+    },
+    {
+      "bytes": 348,
+      "editable": true,
+      "path": "payload/research/templates/blank/student/shell/START.md",
+      "sha256": "7901df3e06196c9973f4e5648a72adb4c19910ec6f94450c4440f5e8ca21e726"
+    },
+    {
+      "bytes": 210,
+      "editable": true,
+      "path": "payload/research/templates/blank/student/state/personal/README.md",
+      "sha256": "3f7d0551a938b1f9633c761cd1ee4cee1b8b4ee002e03aacb7aadb75fd703dc8"
+    },
+    {
+      "bytes": 380,
+      "editable": true,
+      "path": "payload/research/templates/blank/student/state/personal/STATE.md",
+      "sha256": "de4f9312c7bd1173d38218f2abd5a6c0823857e4c8a04c4aaeecad9051fe212f"
+    },
+    {
+      "bytes": 367,
+      "editable": true,
+      "path": "payload/research/templates/blank/student/state/public/README.md",
+      "sha256": "4203caee9b2e084b277ac7e5a80e95730d038ca1c0c57c80b28c9b109eb9108b"
+    },
+    {
+      "bytes": 555,
+      "editable": false,
+      "path": "payload/research/templates/package/adapters/claude.block.md",
+      "sha256": "a026729db847ec89e972ff2a3e2254f93068cb83b745fe52186fac9241717114"
+    },
+    {
+      "bytes": 508,
+      "editable": false,
+      "path": "payload/research/templates/package/adapters/claude.block.student.md",
+      "sha256": "47b28572e510842ee82eb353ee342493b4336163fb4d65d5811e7e131d792523"
+    },
+    {
+      "bytes": 555,
+      "editable": false,
+      "path": "payload/research/templates/package/adapters/codex.block.md",
+      "sha256": "a026729db847ec89e972ff2a3e2254f93068cb83b745fe52186fac9241717114"
+    },
+    {
+      "bytes": 508,
+      "editable": false,
+      "path": "payload/research/templates/package/adapters/codex.block.student.md",
+      "sha256": "47b28572e510842ee82eb353ee342493b4336163fb4d65d5811e7e131d792523"
+    },
+    {
+      "bytes": 1516,
+      "editable": false,
+      "path": "payload/research/templates/package/build_spore.py",
+      "sha256": "0a7a3fbe0c4cfebb2f837eaf1e929b4b4b1be9890a480541dd1b7db27317f209"
+    },
+    {
+      "bytes": 524,
+      "editable": false,
+      "path": "payload/research/templates/package/CHANGELOG.md",
+      "sha256": "60bed892482295471903914a0cbc70ceca602daf2fe06b2a51c3cc6ea413848f"
+    },
+    {
+      "bytes": 2991,
+      "editable": false,
+      "path": "payload/research/templates/package/install.py",
+      "sha256": "b98c0868748a1643e4b9bf020d0fc01f968432cfdf185ce8077df878e5213338"
+    },
+    {
+      "bytes": 2614,
+      "editable": false,
+      "path": "payload/research/templates/package/README.md",
+      "sha256": "b3db013925c010f6c9e27b16305f08543c2057408ca553d187251ca95e36b402"
+    },
+    {
+      "bytes": 332,
+      "editable": false,
+      "path": "payload/research/templates/package/RELEASE.json",
+      "sha256": "fb886f2f5c43cbb2a0229ed4d9bfad8baab23fc9fccf3dffcb63040ccd111128"
+    },
+    {
+      "bytes": 275,
+      "editable": true,
+      "path": "payload/research/templates/record.md",
+      "sha256": "cf948ad92eb8803942e0677059052286239a84d75a86bbfce2cc061786fc88f1"
+    },
+    {
+      "bytes": 350,
+      "editable": true,
+      "path": "payload/research/templates/review-request.md",
+      "sha256": "4f674210c5dde2aaa9763338c54645ee795b2e421122026485b71e041bfb362a"
+    },
+    {
+      "bytes": 437,
+      "editable": true,
+      "path": "payload/research/templates/task.md",
+      "sha256": "325ec59fcf4f8cc20a6a9c9300e68a4afcb6a1e7a7aa1e9466eb45e8ca8e76bf"
+    },
+    {
+      "bytes": 80865,
+      "editable": false,
+      "path": "payload/research/tools/_spore_core.py",
+      "sha256": "f199c297b7a6e4622a7b383b8c0d429a97926fdc78b4d550abbd0873702ccc8d"
+    },
+    {
+      "bytes": 2499,
+      "editable": false,
+      "path": "payload/research/tools/adopt_student.py",
+      "sha256": "0a683d4ccdb9495eb0118370d80496c3f4e525dee29d8d3bbb19d6bc67ab444a"
+    },
+    {
+      "bytes": 1499,
+      "editable": false,
+      "path": "payload/research/tools/check.py",
+      "sha256": "c6e8ed1dada72729576ba2e7099b1d961c852307ec9b432dca9f0b6c55cb3344"
+    },
+    {
+      "bytes": 2868,
+      "editable": false,
+      "path": "payload/research/tools/first_student.py",
+      "sha256": "6cba02e97566f8d8fb94a89de06997a0b2a69c8e46335a6c45da62566de23760"
+    },
+    {
+      "bytes": 953,
+      "editable": false,
+      "path": "payload/research/tools/gate.py",
+      "sha256": "5e710a085c94254ce881cff49e39cd7d3ba353301b5d7dd17d101bc1897fd816"
+    },
+    {
+      "bytes": 2460,
+      "editable": false,
+      "path": "payload/research/tools/record_student.py",
+      "sha256": "4c3408e5ddc8040366a0b90352b996016babfbc461d94fd70614e2d847c4c434"
+    },
+    {
+      "bytes": 1902,
+      "editable": false,
+      "path": "payload/research/tools/spore.py",
+      "sha256": "b16fd05819c2f2abb170a7a7a874e709584293b908a9fe4d7ae36d5ac7dddf7a"
+    },
+    {
+      "bytes": 1321,
+      "editable": true,
+      "path": "payload/research/WAKEUP.md",
+      "sha256": "8ce07e5ebc8e6a5343fb0c1bdc33d88724863ca6ccdc0aabb020906e06945a8d"
+    },
+    {
+      "bytes": 8097,
+      "editable": true,
+      "path": "README.md",
+      "sha256": "133f9e7b55a75463abc49b2eff2646afc06b83dc615913368e37fef916c1ffcb"
+    },
+    {
+      "bytes": 2570,
+      "editable": true,
+      "path": "VERIFICATION.md",
+      "sha256": "c15c01b8320d4b8fa3065ece21b19e2368c40c721c67de7121d1d4b9375f5054"
+    },
+    {
+      "bytes": 40413,
+      "editable": true,
+      "path": "verify.py",
+      "sha256": "e3eb5f411bd12e7ae97ef9471609ba6e5640dee13da84e0456b84c86e7f14a91"
+    }
+  ],
+  "formatVersion": 2,
+  "kind": "release",
+  "name": "open-research-spore",
+  "note": "Personal-preference variant; released as its own package and tag.",
+  "profile": "mentor",
+  "source": {
+    "artifact": "open-research-spore-v2.2.0.zip",
+    "sha256": "0543541942a0be2dca08320dbb15d344d9ce0db8129ffa8f96afc864d188f0e0"
+  },
+  "variant": "personal-preferences",
+  "version": "2.2.0+personal.1"
+}

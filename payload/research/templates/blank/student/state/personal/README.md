@@ -1,0 +1,1 @@
+This is the student's own area. Choose a name and keep your own `SELF.md`, notes, drafts and long-term memory here. The mentor does not populate or edit these files, and they are not inherited by a descendant.
